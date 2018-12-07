@@ -1,0 +1,11 @@
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\obj\Debug\Intermediary.csprojAssemblyReference.cache
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\obj\Debug\Intermediary.csproj.CoreCompileInputs.cache
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\bin\Debug\Intermediary.dll
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\bin\Debug\Intermediary.pdb
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\bin\Debug\DataAccess.dll
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\bin\Debug\VariableProperties.dll
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\bin\Debug\DataAccess.pdb
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\bin\Debug\VariableProperties.pdb
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\obj\Debug\Intermediary.csproj.CopyComplete
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\obj\Debug\Intermediary.dll
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\Intermediary\obj\Debug\Intermediary.pdb

@@ -1,0 +1,9 @@
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\bin\Debug\DataAccess.dll
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\bin\Debug\DataAccess.pdb
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\bin\Debug\VariableProperties.dll
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\bin\Debug\VariableProperties.pdb
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\obj\Debug\DataAccess.dll
+C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9FAA491B-58EE-42AD-9144-A533825F5DEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DUCATPROJECT_CONSULTANCY_ERPDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DUCATPROJECT_CONSULTANCY_ERPDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCandidateView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCandidateView.Designer.cs">
+      <DependentUpon>FrmCandidateView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmployerRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmployerRegistration.Designer.cs">
+      <DependentUpon>FrmEmployerRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmployers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmployers.Designer.cs">
+      <DependentUpon>FrmEmployers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmployerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmployerView.Designer.cs">
+      <DependentUpon>FrmEmployerView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOptions.Designer.cs">
+      <DependentUpon>FrmOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCandidates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCandidates.Designer.cs">
+      <DependentUpon>FrmCandidates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCandidateRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCandidateRegistration.Designer.cs">
+      <DependentUpon>FrmCandidateRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCandidateView.resx">
+      <DependentUpon>FrmCandidateView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmployerRegistration.resx">
+      <DependentUpon>FrmEmployerRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmployers.resx">
+      <DependentUpon>FrmEmployers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmployerView.resx">
+      <DependentUpon>FrmEmployerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOptions.resx">
+      <DependentUpon>FrmOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCandidates.resx">
+      <DependentUpon>FrmCandidates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCandidateRegistration.resx">
+      <DependentUpon>FrmCandidateRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DUCATPROJECT_CONSULTANCY_ERPDataSet.xsc">
+      <DependentUpon>DUCATPROJECT_CONSULTANCY_ERPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DUCATPROJECT_CONSULTANCY_ERPDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DUCATPROJECT_CONSULTANCY_ERPDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DUCATPROJECT_CONSULTANCY_ERPDataSet.xss">
+      <DependentUpon>DUCATPROJECT_CONSULTANCY_ERPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Intermediary\Intermediary.csproj">
+      <Project>{20609b22-c93b-4c7b-8f01-3fbe06bd4e6a}</Project>
+      <Name>Intermediary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VariableProperties\VariableProperties.csproj">
+      <Project>{427b63bc-eed6-425b-b962-2508f4fa8fd5}</Project>
+      <Name>VariableProperties</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
