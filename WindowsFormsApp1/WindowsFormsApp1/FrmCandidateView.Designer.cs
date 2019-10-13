@@ -62,6 +62,7 @@
             this.dGVCandidateView.Name = "dGVCandidateView";
             this.dGVCandidateView.Size = new System.Drawing.Size(796, 373);
             this.dGVCandidateView.TabIndex = 1;
+            this.dGVCandidateView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dGVCandidateView_CellContentClick);
             // 
             // menuStrip1
             // 

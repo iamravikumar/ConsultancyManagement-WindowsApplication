@@ -4,3 +4,8 @@ C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\VariableProperties\obj\Debug\V
 C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\VariableProperties\obj\Debug\VariableProperties.csproj.CoreCompileInputs.cache
 C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\VariableProperties\obj\Debug\VariableProperties.dll
 C:\CSharp\Ducat\Projects\Windows\WindowsFormsApp1\VariableProperties\obj\Debug\VariableProperties.pdb
+C:\CSharp\Ducat\Projects\Windows\ConsultancyManagement-WindowsApplication\WindowsFormsApp1\VariableProperties\bin\Debug\VariableProperties.dll
+C:\CSharp\Ducat\Projects\Windows\ConsultancyManagement-WindowsApplication\WindowsFormsApp1\VariableProperties\bin\Debug\VariableProperties.pdb
+C:\CSharp\Ducat\Projects\Windows\ConsultancyManagement-WindowsApplication\WindowsFormsApp1\VariableProperties\obj\Debug\VariableProperties.csproj.CoreCompileInputs.cache
+C:\CSharp\Ducat\Projects\Windows\ConsultancyManagement-WindowsApplication\WindowsFormsApp1\VariableProperties\obj\Debug\VariableProperties.dll
+C:\CSharp\Ducat\Projects\Windows\ConsultancyManagement-WindowsApplication\WindowsFormsApp1\VariableProperties\obj\Debug\VariableProperties.pdb

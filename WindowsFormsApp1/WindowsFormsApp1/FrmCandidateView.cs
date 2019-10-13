@@ -34,5 +34,10 @@ namespace WindowsFormsApp1
 
             //dGVCandidateView.AutoResizeColumns(dGVCandidateView.ColumnHeader);
         }
+
+        private void dGVCandidateView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
